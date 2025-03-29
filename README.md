@@ -28,9 +28,30 @@ This project is a **React/next-based Data Query Dashboard Prototype** for a Gen 
 - **Results Display Area**: Visualizes results using charts.
 - **Query History Section**: Stores and displays past queries.
 - **Loading & Error States**: Provides feedback during query processing.
-- The project follows a **component-based structure** to ensure reusability and maintainability.
 
-1. Organized using `components`, `pages`, `store` (for Redux state management), and `assets` directories.
+## 📖 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone [GitHub Repository URL]
+   cd data-query-dashboard
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## 🏗️ Approach & Implementation
+
+### **1️⃣ Project Structure**
+
+- The project follows a **component-based structure** to ensure reusability and maintainability.
+- Organized using `components`, `pages`, `store` (for Redux state management), and `assets` directories.
 
 ### **2️⃣ State Management**
 
@@ -61,4 +82,7 @@ This project is a **React/next-based Data Query Dashboard Prototype** for a Gen 
 
 - Hosted on **Vercel** for seamless live preview and fast performance.
 
+## 📩 Contact
+
+For any queries, reach out at: [Your Email or LinkedIn]
 
